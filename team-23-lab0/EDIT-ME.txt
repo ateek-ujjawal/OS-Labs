@@ -1,0 +1,35 @@
+Simple questionaire for CS 5600.
+
+Please add your answers at the end of the lines and save the file,
+then commit and push to the repository.
+
+Your name: Haonan Lu
+
+Have you:
+- taken a computer architecture course? -Yes
+- used the gdb debugger? -Yes
+- used make -No
+- written a makefile -No
+- written C code in your job? -No
+
+What would be your prefered time for office hours? Note that the
+midterms will both be on a Thursday.
+- Monday, Wednesday, Friday all days.
+
+Your name: Ateek Ujjawal
+
+Have you:
+- taken a computer architecture course?
+  Yes
+- used the gdb debugger?
+  No
+- used make
+  No
+- written a makefile
+  No
+- written C code in your job?
+  No
+
+What would be your prefered time for office hours? Note that the
+midterms will both be on a Thursday.
+- Monday, Wednesday, Friday
